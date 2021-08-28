@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:text="Enter the weight value (in kg) below"
         android:textAlignment="center"
-        android:textSize="20sp"
+        android:textSize="25sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
